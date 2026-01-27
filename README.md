@@ -12,7 +12,7 @@ This mirrors real-world optimisation problems where direct access to system inte
 ## 🛠️ Tools & Technologies
 This project was developed using Python for data analysis and experimentation. The optimisation process was carried out through a web-based capstone project portal, where query points were submitted and corresponding outputs were observed.
 
-GitHub was used for version control and documentation, ensuring transparency an
+GitHub was used for version control and documentation, ensuring transparency and reproducibility throughout the project. Markdown was used to document the dataset datasheet, model card, and overall project explanation in a structured and accessible format.
 
 ## 📘 Non-Technical Project Overview
 This project explores how complex systems can be improved even when their internal workings are unknown. Instead of analysing the system directly, performance is improved by testing different inputs and learning from the results over time. Through multiple rounds of experimentation, patterns in successful inputs emerged, allowing future decisions to be more focused and efficient. This mirrors real-world situations such as tuning business processes or machine learning systems where direct access to internal logic is limited. Overall, the project demonstrates how careful experimentation, reflection, and documentation can lead to meaningful improvements without full system visibility.
